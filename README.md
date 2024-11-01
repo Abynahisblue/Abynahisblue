@@ -1,5 +1,9 @@
 # 💫 About Me:
-     Hi, I’m @Abynahisblue<br>🌱 I’m currently learning java springboot<br>💞️ I’m looking to collaborate on website projects<br>📫 How to reach me: 0719000427@ttu.edu.gh<br>⚡ Fun fact: I love playing card games
+     Hi, I’m @Abynahisblue<br>
+     🌱 I’m currently learning java springboot
+     💞️ I’m looking to collaborate on website projects
+     📫 How to reach me: sandrakumi9@gmail.com
+     ⚡ Fun fact: I love playing card games
 
 
 ## 🌐 Socials:
